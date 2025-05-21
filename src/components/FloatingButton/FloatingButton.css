@@ -1,0 +1,26 @@
+.floating-button-container {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 50;
+}
+
+.floating-button {
+  background: linear-gradient(45deg, #4f46e5, #7c3aed);
+  padding: 1rem;
+  border-radius: 50%;
+  box-shadow: 0 5px 15px rgba(79, 70, 229, 0.5);
+  cursor: pointer;
+  border: none;
+  transition: transform 0.3s ease;
+}
+
+.floating-button:hover,
+.floating-button:focus {
+  transform: scale(1.1);
+  outline: none;
+}
+
+.floating-button-icon {
+  color: white;
+}

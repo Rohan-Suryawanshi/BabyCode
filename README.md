@@ -1,34 +1,48 @@
+````markdown
 # React + Vite Starter Template
 
-A minimal React project scaffolded with **Vite** for fast development and hot module replacement (HMR). This setup is ideal for modern React applications, providing lightning-fast builds and an optimized developer experience.
+A minimal **React** project scaffolded with **Vite** for blazing-fast development and Hot Module Replacement (HMR). This setup is perfect for modern React applications, providing optimized performance and a clean development experience.
 
 ## 🔧 Tech Stack
 
-- [React](https://reactjs.org/) – Library for building user interfaces
-- [Vite](https://vitejs.dev/) – Next generation frontend tooling
-- [ESLint](https://eslint.org/) – Linting utility for JavaScript and JSX
-- [Prettier](https://prettier.io/) – Code formatter
-- [Tailwind CSS](https://tailwindcss.com/) *(optional)* – Utility-first CSS framework (add manually if required)
+- [React](https://reactjs.org/) – JavaScript library for building user interfaces  
+- [Vite](https://vitejs.dev/) – Next-generation frontend tooling  
+- [ESLint](https://eslint.org/) – JavaScript and JSX linter  
+- [Prettier](https://prettier.io/) – Opinionated code formatter  
+- [Tailwind CSS](https://tailwindcss.com/) *(optional)* – Utility-first CSS framework (can be added manually)
 
 ## 🚀 Features
 
-- ⚡️ Super-fast development server using Vite
-- 🔁 Hot Module Replacement (HMR) enabled
-- ✅ ESLint and Prettier for code quality and formatting
-- 📁 Clean project structure to get started quickly
-- 🔍 Configurable with either Babel or SWC (default: Babel)
+- ⚡ Super-fast development with Vite  
+- 🔁 Hot Module Replacement (HMR)  
+- ✅ Integrated ESLint and Prettier for code quality  
+- 📁 Clean and minimal project structure  
+- 🔍 Optional Babel or SWC support (default: Babel)
 
 ## 📦 Getting Started
 
 ### Prerequisites
 
-Ensure you have the following installed:
+Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v16 or above recommended)
+- [Node.js](https://nodejs.org/) (v16 or later recommended)  
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
-### Clone the Repo
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Rohan-Suryawanshi/BabyCode
-cd react-vite-starter
+cd BabyCode
+npm install
+npm run dev
+````
+
+## 🌐 Live Demo
+
+Check out the working demo:
+🔗 [https://baby-code-nine.vercel.app/](https://baby-code-nine.vercel.app/)
+
+## 🙌 Thanks
+
+Special thanks to **[BabyCode](https://baby-code-nine.vercel.app/)** for the opportunity and support in making this template possible.
+
